@@ -1,0 +1,6 @@
+{
+  "name": "CodeAlpha Project Management Tool",
+  "description": "A collaborative full-stack project management platform with customizable kanban boards, tasks, comments, and real-time feel notification center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
